@@ -24,7 +24,7 @@ import java.util.NoSuchElementException;
  *
  * <p>Variant is defined by record book number {@link #getRecordBookNumber()}.</p>
  *
- * <p>Author: Dobranovskyi Stanislav, IO-36, 3605</p>
+ * <p>Author: Dobranovskyi Stanislav, IO-36, 3605.</p>
  */
 public class NumberListImpl implements NumberList {
 
